@@ -1,2 +1,0 @@
-creating file2.txt
-added str in file2.txt

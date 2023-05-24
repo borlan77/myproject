@@ -1,3 +1,0 @@
-creating file3
-changed file3
-add str in file3
